@@ -4,15 +4,15 @@
 
 
 #### Angry
-![Title](image/Angry_Facial Emotion Detection.png)
+![Title](image/Angry_Facial_Emotion_Detection.png)
 
 #### Resting Bitch Face
-![Title](image/Resting_bitch_Face_Suprise_Facial Emotion Detection.png)
+![Title](image/Resting_bitch_Face_Suprise_Facial_Emotion_Detection.png)
 
 #### SUPRISE
-![Title](image/Suprise_Facial Emotion Detection.png)
+![Title](image/Suprise_Facial_Emotion_Detection.png)
 
 #### FEAR
-![Title](image/Fear_Facial Emotion Detection.png)
+![Title](image/Suprise_Facial_Emotion_Detection.png)
 
 
