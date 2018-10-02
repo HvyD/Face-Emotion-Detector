@@ -13,6 +13,6 @@
 ![Title](image/Suprise_Facial_Emotion_Detection.png)
 
 #### FEAR
-![Title](image/Suprise_Facial_Emotion_Detection.png)
+![Title](image/Fear_Facial_Emotion_Detection.png)
 
 
